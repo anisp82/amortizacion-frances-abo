@@ -14,5 +14,6 @@ Aplicación web para generar planes de pagos con el **método francés** (cuota 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/amortizacion-frances-abo.git
+   git clone https://github.com/anisp82/amortizacion-frances-abo.git
    cd amortizacion-frances-abo"# amortizacion-frances-abo" 
+
