@@ -1,6 +1,6 @@
 # Sistema de Amortización - Método Francés
 
-Aplicación web para generar planes de pagos con el **método francés** (cuota constante), diseñada para Depósito ABO.
+Aplicación web para generar planes de pagos con el **método francés** (cuota constante).
 
 ## ✨ Características
 
@@ -16,4 +16,5 @@ Aplicación web para generar planes de pagos con el **método francés** (cuota 
    ```bash
    git clone https://github.com/anisp82/amortizacion-frances-abo.git
    cd amortizacion-frances-abo"# amortizacion-frances-abo" 
+
 
